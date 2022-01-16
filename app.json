@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/ToxicCybers/MentosMusic",
+    "repository": "https://github.com/thantzan212/MentosMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
